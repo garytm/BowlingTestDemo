@@ -1,0 +1,4 @@
+SPACE- Move the ball
+A/D- Manipulate the camera
+Arrow Keys- Manipulate the camera
+Enter- Manipulate the camera
