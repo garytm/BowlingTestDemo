@@ -1,0 +1,19 @@
+﻿  Viewport.cpp
+  Texture.cpp
+  Sound.cpp
+  Shader.cpp
+  Pin.cpp
+c:\users\garyt\desktop\bowlingcoursework - copy\gp2coursework\pin.cpp(22): warning C4930: 'PinCollisionSphere pinCollisionSphere(void)': prototyped function not called (was a variable definition intended?)
+  obj_loader.cpp
+c:\users\garyt\desktop\bowlingcoursework - copy\gp2coursework\obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Model.cpp
+c:\users\garyt\desktop\bowlingcoursework - copy\gp2coursework\model.cpp(22): warning C4930: 'CollisionSphere collisionSphere(void)': prototyped function not called (was a variable definition intended?)
+  Ball.cpp
+c:\users\garyt\desktop\bowlingcoursework - copy\gp2coursework\ball.cpp(22): warning C4930: 'BallCollisionSphere ballCollisionSphere(void)': prototyped function not called (was a variable definition intended?)
+  main.cpp
+  Input.cpp
+  Game.cpp
+  Generating Code...
+  stb_image.c
+  LINK : C:\Users\garyt\Desktop\BowlingCoursework - Copy\Debug\GP2Coursework.exe not found or not built by the last incremental link; performing full link
+  GP2Coursework.vcxproj -> C:\Users\garyt\Desktop\BowlingCoursework - Copy\Debug\GP2Coursework.exe

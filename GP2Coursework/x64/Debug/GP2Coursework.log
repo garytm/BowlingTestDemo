@@ -1,0 +1,23 @@
+﻿  Viewport.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\viewport.cpp(76): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Texture.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\texture.cpp(47): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Sound.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\sound.cpp(158): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Shader.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\shader.cpp(118): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Pin.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\pin.cpp(82): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  obj_loader.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\obj_loader.cpp(406): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Model.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\model.cpp(82): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Ball.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\ball.cpp(95): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  main.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\main.cpp(10): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Input.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\input.cpp(86): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Game.cpp
+c:\users\garyt\desktop\bowlingcoursework\bowlingcoursework\gp2coursework\game.cpp(340): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
